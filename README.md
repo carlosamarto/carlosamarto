@@ -1,10 +1,8 @@
 # Hello, My name is Carlos Martínez.
 
-### Freelance Front-end Web Developer.
+### Front-end Developer.
 
-I am a Front-end Web Developer in development, passionate about front-end development and improving every day to achieve my goals as a programmer I have been working freelance for about a year and a half and I have been working on some projects on my own with WordPross or pure code layout.
-
-And currently I am also dedicated to improving my skills with technologies such as React.js Next.js among others.
+I am a Front End Developer with a few years of experience in the field of Web Development, working with CMS and technologies ranging from WordPress/Shopify to HTML5/CSS3/JavaScript/React/Next/Tailwind for the Development of Web Pages and Interfaces, I am passionate about what I do and never stop learning.
 
 ## Skills:
 
