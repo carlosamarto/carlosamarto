@@ -1,6 +1,8 @@
-# Hello, My name is Carlos Martínez.
+# Hello, my name is Carlos Martínez. <br><br> Front-end Developer.
 
-### Front-end Developer.
+<br>
+
+## About me.
 
 I am a Front End Developer with a few years of experience in the field of Web Development.
 
