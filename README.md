@@ -19,4 +19,4 @@ I have great passion and dedication in what I do without stopping learning to ge
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosmrtzo-informational)](https://www.linkedin.com/in/carlosmrtzo/) [![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzo8-9cf)](https://twitter.com/carlosmrtzo8)
+[![Linked In](https://img.shields.io/badge/Linked%20In-carlosmrtzodev-informational)](https://www.linkedin.com/in/carlosmrtzodev/) [![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzodev-9cf)](https://twitter.com/carlosmrtzodev)
