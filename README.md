@@ -13,7 +13,7 @@ I have great passion and dedication in what I do without stopping learning to ge
 ## Skills:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-red)]() [![CSS3](https://img.shields.io/badge/-CSS3-9cf)]() [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]() <br>
-[![React](https://img.shields.io/badge/-React.js-blue)]() [![Next](https://img.shields.io/badge/-Next.js-brightgreen)]() [![Next](https://img.shields.io/badge/-Tailwind%20CSS-blue)]() <br>
+[![React](https://img.shields.io/badge/-React-blue)]() [![Next](https://img.shields.io/badge/-Next-brightgreen)]() [![Next](https://img.shields.io/badge/-Tailwind%20CSS-blue)]() <br>
 [![WordPress](https://img.shields.io/badge/-WordPress-informational)]() [![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)]() <br>
 [![Git](https://img.shields.io/badge/-Git-lightgrey)]() <br>
 
