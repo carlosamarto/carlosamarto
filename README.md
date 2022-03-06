@@ -38,5 +38,4 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=for-the-badge&logo=html5&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
