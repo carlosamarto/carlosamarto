@@ -16,13 +16,11 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
 
-
-## Skills:
-
-[![HTML5](https://img.shields.io/badge/-HTML5-red)]() [![CSS3](https://img.shields.io/badge/-CSS3-9cf)]() [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]() <br>
-[![React](https://img.shields.io/badge/-React-blue)]() [![Next](https://img.shields.io/badge/-Next-brightgreen)]() [![Next](https://img.shields.io/badge/-Tailwind%20CSS-blue)]() <br>
-[![WordPress](https://img.shields.io/badge/-WordPress-informational)]() [![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)]() <br>
-[![Git](https://img.shields.io/badge/-Git-lightgrey)]() <br>
+## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-Next-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badgelogo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
