@@ -14,11 +14,11 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmrtzodev&layout=compact&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
+
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
 
 ## 💼 Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmrtzodev&layout=compact&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
