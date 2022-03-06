@@ -1,4 +1,6 @@
 [![Carlos's GitHub Banner](./assets/Banner.png)](https://github.com/carlosmrtzodev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/carlosmrtzodev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/carlosmrtzodev/)
 
 # Hello, my name is Carlos Martínez. <br><br> Front-end Developer.
 
@@ -20,7 +22,3 @@ I have great passion and dedication in what I do without stopping learning to ge
 [![React](https://img.shields.io/badge/-React-blue)]() [![Next](https://img.shields.io/badge/-Next-brightgreen)]() [![Next](https://img.shields.io/badge/-Tailwind%20CSS-blue)]() <br>
 [![WordPress](https://img.shields.io/badge/-WordPress-informational)]() [![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)]() <br>
 [![Git](https://img.shields.io/badge/-Git-lightgrey)]() <br>
-
-## Find me at:
-
-[![Linked In](https://img.shields.io/badge/Linked%20In-carlosmrtzodev-informational)](https://www.linkedin.com/in/carlosmrtzodev/) [![Twitter](https://img.shields.io/badge/Twitter-carlosmrtzodev-9cf)](https://twitter.com/carlosmrtzodev)
