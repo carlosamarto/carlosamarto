@@ -11,9 +11,9 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 ## 📌 Pinned Repositories
 
 [![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=pokedex-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/pokedex-app) <br>
-[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=Pomodoro-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/Pomodoro-app)
-[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=responsive-website&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/responsive-website)
-[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=compound-interest&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/compound-interest)
+[![Pomodoro App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=Pomodoro-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/Pomodoro-app) <br>
+[![Responsive Website](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=responsive-website&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/responsive-website) <br>
+[![Compound Interest](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=compound-interest&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/compound-interest)
 
 ## 📈 GitHub Stats
 
