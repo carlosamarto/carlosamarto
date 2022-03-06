@@ -20,7 +20,7 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-Next-informational?style=for-the-badge&logo=next&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-Next-informational?style=for-the-badge&logo=next.js&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
