@@ -8,6 +8,8 @@ I’m Carlos, a Front End Developer with a few years of experience in the field 
 
 Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CSS3/JavaScript/React/Next/Tailwind for the Development of Websites and Interfaces.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlosmrtzodev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-red)]() [![CSS3](https://img.shields.io/badge/-CSS3-9cf)]() [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]() <br>
