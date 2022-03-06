@@ -8,6 +8,10 @@ I’m Carlos, a Front End Developer with a few years of experience in the field 
 
 Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CSS3/JavaScript/React/Next/Tailwind for the Development of Websites and Interfaces.
 
+## 📌 Pinned Repositories
+
+[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=pokedex-app)](https://github.com/carlosmrtzodev/pokedex-app)
+
 ## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
