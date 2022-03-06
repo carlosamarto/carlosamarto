@@ -1,6 +1,6 @@
 [![Carlos's GitHub Banner](./assets/Banner.png)](https://github.com/carlosmrtzodev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/carlosmrtzodev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/carlosmrtzodev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
 
 Hello 👋.
 
@@ -20,7 +20,9 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 
 ![](https://img.shields.io/badge/Code-Next-informational?style=for-the-badge&logo=next.js&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
@@ -34,7 +36,3 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-BootStrap-informational?style=for-the-badge&logo=bootstrap&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-
-
-
