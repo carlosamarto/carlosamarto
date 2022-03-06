@@ -23,3 +23,6 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 [![React](https://img.shields.io/badge/-React-blue)]() [![Next](https://img.shields.io/badge/-Next-brightgreen)]() [![Next](https://img.shields.io/badge/-Tailwind%20CSS-blue)]() <br>
 [![WordPress](https://img.shields.io/badge/-WordPress-informational)]() [![Shopify](https://img.shields.io/badge/-Shopify-brightgreen)]() <br>
 [![Git](https://img.shields.io/badge/-Git-lightgrey)]() <br>
+
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
