@@ -18,9 +18,9 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Git-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/NPM-NPM-informational?style=for-the-badge&logo=npm&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/GitHub-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
