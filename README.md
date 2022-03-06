@@ -10,7 +10,7 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true)](https://github.com/carlosmrtzodev/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42)](https://github.com/carlosmrtzodev/)
 
 
 ## Skills:
