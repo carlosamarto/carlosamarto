@@ -1,3 +1,5 @@
+[![Carlos's GitHub Banner](./assets/Banner.png)](https://github.com/carlosmrtzodev/)
+
 # Hello, my name is Carlos Martínez. <br><br> Front-end Developer.
 
 <br>
