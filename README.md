@@ -21,6 +21,10 @@ Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CS
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
 
+## 📈 WakaTime Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosmrztodev&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
