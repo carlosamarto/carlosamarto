@@ -2,11 +2,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
 
-Hello 👋.
+💻 Front End Developer.
 
-I’m Carlos, a Front End Developer with a few years of experience in the field of Web Development.
+My goal is to create cool looking websites and interfaces. ❤️
 
-Working with technologies and CMS ranging from WordPress/Shopify to Git/HTML5/CSS3/JavaScript/React/Next/Tailwind for the Development of Websites and Interfaces.
+With a trajectory of a few years since I started with HTML/CSS/JavaScript until I was working with WordPress and I am currently specializing more with technologies such as React/Next/Tailwind.
 
 ## 📌 Pinned Repositories
 
