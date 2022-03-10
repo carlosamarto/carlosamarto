@@ -6,7 +6,7 @@
 
 My goal is to create cool looking websites and interfaces. ❤️
 
-With a trajectory of a few years since I started with HTML/CSS/JavaScript until I was working with WordPress and I am currently specializing more with technologies such as React/Next/Tailwind.
+With a trajectory of a few years since I started with HTML/CSS/JavaScript until I was working with WordPress and I am currently specializing more with technologies such as React.js/Next.js/Tailwind CSS.
 
 ## 📌 Pinned Repositories
 
