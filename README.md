@@ -19,7 +19,7 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzodev&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosmrtzo)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosmrtzodev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Skills
 
