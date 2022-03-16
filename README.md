@@ -10,7 +10,7 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 
 ## 📌 Pinned Repositories
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=portfolio&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/pokedex-app) <br><br>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=portfolio&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/portfolio) <br><br>
 [![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=pokedex-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/pokedex-app) <br><br>
 [![Responsive Website](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=responsive-website&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/responsive-website)
 
