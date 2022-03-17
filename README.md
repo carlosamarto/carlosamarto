@@ -1,6 +1,6 @@
 [![Carlos's GitHub Banner](./assets/BannerWork.png)](https://github.com/carlosmrtzodev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)](https://twitter.com/carlosmrtzodev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)](https://www.linkedin.com/in/carlosmrtzodev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)](https://twitter.com/carlosmrtzodev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)](https://www.linkedin.com/in/carlosmrtzodev/)
 
 💻 Front End Developer.
 
