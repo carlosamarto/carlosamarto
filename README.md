@@ -1,6 +1,6 @@
 [![Carlos's GitHub Banner](./assets/BannerWork.png)](https://github.com/carlosmrtzodev/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://twitter.com/carlosmrtzodev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
 
 💻 Front End Developer.
 
@@ -22,18 +22,18 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=edf2f4&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
