@@ -25,6 +25,7 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Tools-Gitlab-informational?style=for-the-badge&logo=Gitlab&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
