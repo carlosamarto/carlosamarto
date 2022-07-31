@@ -1,7 +1,7 @@
 [![Carlos's GitHub Banner](./assets/Banner.png)](https://github.com/carlosmrtzodev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
 
-💻 Front End Developer.
+Front-End Developer & UX Design. 💻
 
 My goal is to create cool looking websites and interfaces.
 
