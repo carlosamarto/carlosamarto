@@ -20,17 +20,14 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 
 ## 💼 Skills
 
+![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=for-the-badge&logo=Gitlab&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
