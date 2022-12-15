@@ -1,4 +1,5 @@
 [![Carlos's GitHub Banner](./Banner.png)](https://github.com/carlosmrtzodev/)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
 
 Front-End Developer 💻
@@ -10,6 +11,7 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 ## 📌 Pinned Repositories
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=portfolio&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://www.carlosmrtzo.com/) <br><br>
+
 [![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzodev&repo=pokedex-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzodev/pokedex-app)
 
 ## 📈 GitHub Stats
@@ -25,9 +27,3 @@ With a trajectory of a few years since I started with HTML/CSS/JavaScript until 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-Gitlab-informational?style=for-the-badge&logo=Gitlab&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
