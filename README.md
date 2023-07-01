@@ -1,4 +1,4 @@
-[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmrtzor/)
+[![Carlos's GitHub Banner](./Banner.png)](https://github.com/carlosmrtzor/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzo/)
 [![Twitter Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://twitter.com/devilsncry3)
