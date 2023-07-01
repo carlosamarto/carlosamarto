@@ -19,7 +19,7 @@ Front-End Developer passionate about creating web pages that stand out for their
 
 ## 💼 Skills
 
-## Programming Languages
+### Programming Languages
 
 ![](https://img.shields.io/badge/Skill-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
