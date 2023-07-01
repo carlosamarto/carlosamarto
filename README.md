@@ -1,12 +1,9 @@
-[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmrtzodev/)
+[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmrtzor/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzodev/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzo/)
+[![Twitter Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://twitter.com/devilsncry3)
 
-Front-End Developer & UX Design. 💻
-
-My goal is to create cool looking websites and interfaces.
-
-With a trajectory of a few years since I started with HTML/CSS/JavaScript until I was working with WordPress and I am currently specializing more with technologies such as React.js/Next.js/Tailwind CSS.
+Front-End Developer passionate about creating web pages that stand out for their great style. 💻✨
 
 ## 📌 Pinned Repositories
 
