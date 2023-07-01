@@ -25,14 +25,14 @@ Front-End Developer passionate about creating web pages that stand out for their
 ![](https://img.shields.io/badge/Skill-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-JavaScript-informational?style=for-the-badge&logo=javaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
-## Libraries & Frameworks
+### Libraries & Frameworks
 
 ![](https://img.shields.io/badge/Skill-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-Tailwind-informational?style=for-the-badge&logo=tailwind&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-Sass-informational?style=for-the-badge&logo=sass&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-Angular-informational?style=for-the-badge&logo=angular&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 
-## Tools & Platforms
+### Tools & Platforms
 
 ![](https://img.shields.io/badge/Skill-Git-informational?style=for-the-badge&logo=git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
 ![](https://img.shields.io/badge/Skill-Github-informational?style=for-the-badge&logo=github&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
