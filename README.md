@@ -19,8 +19,31 @@ Front-End Developer passionate about creating web pages that stand out for their
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+## Programming Languages
+
+![](https://img.shields.io/badge/Skill-HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-JavaScript-informational?style=for-the-badge&logo=javaScript&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+
+## Libraries & Frameworks
+
+![](https://img.shields.io/badge/Skill-React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Tailwind-informational?style=for-the-badge&logo=tailwind&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Sass-informational?style=for-the-badge&logo=sass&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Angular-informational?style=for-the-badge&logo=angular&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+
+## Tools & Platforms
+
+![](https://img.shields.io/badge/Skill-Git-informational?style=for-the-badge&logo=git&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Github-informational?style=for-the-badge&logo=github&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Gitlab-informational?style=for-the-badge&logo=gitlab&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Vercel-informational?style=for-the-badge&logo=vercel&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Vite-informational?style=for-the-badge&logo=vite&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Storybook-informational?style=for-the-badge&logo=storybook&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+![](https://img.shields.io/badge/Skill-Figma-informational?style=for-the-badge&logo=figma&logoColor=ef233c&color=ef233c&labelColor=2b2d42)
+
+
+
