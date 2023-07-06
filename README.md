@@ -21,26 +21,26 @@ Front-End Developer passionate about creating web pages that stand out for their
 
 ### Programming Languages
 
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javaScript&logocolor=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javaScript&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
 
 ### Libraries & Frameworks
 
-![](https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Tailwind-informational?style=for-the-badge&logo=tailwind&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logocolor=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Tailwind-informational?style=for-the-badge&logo=tailwind&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
 
 ### Tools & Platforms
 
-![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Gitlab-informational?style=for-the-badge&logo=gitlab&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Storybook-informational?style=for-the-badge&logo=storybook&logocolor=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logocolor=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Gitlab-informational?style=for-the-badge&logo=gitlab&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Storybook-informational?style=for-the-badge&logo=storybook&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=ef233c&color=2b2d42&labelColor=ef233c)
