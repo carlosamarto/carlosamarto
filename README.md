@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzo/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://twitter.com/devilsncry3)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.instagram.com/devilsncry3/)
 
 Front-End Developer passionate about creating web pages that stand out for their great style. 💻✨
 
@@ -13,9 +14,9 @@ Front-End Developer passionate about creating web pages that stand out for their
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmrtzor&layout=compact&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmrtzor&layout=compact&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzor/)
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzor&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzodev/)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmrtzor&show_icons=true&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&icon_color=ef233c&border_color=ef233c)](https://github.com/carlosmrtzor/)
 
 ## 💼 Skills
 
