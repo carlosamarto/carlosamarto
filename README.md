@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.linkedin.com/in/carlosmrtzo/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://twitter.com/devilsncry3)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=twitter&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.instagram.com/devilsncry3/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=ef233c&color=ef233c&labelColor=2b2d42)](https://www.instagram.com/devilsncry3/)
 
 Front-End Developer passionate about creating web pages that stand out for their great style. 💻✨
 
