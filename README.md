@@ -31,7 +31,7 @@ Front-End Developer passionate about creating web pages that stand out for their
 ### Libraries & Frameworks
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/Tailwind-CSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
 ![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
 
