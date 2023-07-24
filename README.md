@@ -12,7 +12,7 @@ Front-End Developer passionate about creating web pages that stand out for their
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=portfolio&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzor/portfolio) <br><br>
 
-[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=pokedex-app&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzor/pokedex-app)
+[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=pokedex&bg_color=2b2d42&title_color=ef233c&text_color=edf2f4&border_color=ef233c&icon_color=ef233c)](https://github.com/carlosmrtzor/pokedex)
 
 ## 📈 GitHub Stats
 
