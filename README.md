@@ -14,6 +14,8 @@ Throughout my experience, I have maintained excellent communication with the tea
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=portfolio&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosmrtzor/portfolio) <br><br>
 
+[![Hackers News](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=hackers-news&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosmrtzor/hackers-news) <br><br>
+
 [![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmrtzor&repo=pokedex&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosmrtzor/pokedex)
 
 ## 📈 GitHub Stats
