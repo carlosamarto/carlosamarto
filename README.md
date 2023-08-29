@@ -6,7 +6,9 @@
 
 # 📕 About
 
-Front-End Developer passionate about creating web pages that stand out for their great style. 💻✨
+I am a Front-End Developer with two years of experience in this field, using technologies like React, JavaScript, and CSS. I specialize in these technologies while continually improving and learning new things such as Next.js, TypeScript, Tailwind CSS, etc.
+
+Throughout my experience, I have maintained excellent communication with the team, demonstrated strong individual performance, and consistently collaborated effectively with the team whenever possible. 💻✨
 
 ## 📌 Pinned Repositories
 
@@ -47,4 +49,3 @@ Front-End Developer passionate about creating web pages that stand out for their
 ![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Slack-informational?style=for-the-badge&logo=slack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
-![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
