@@ -6,9 +6,10 @@
 
 # 📕 About
 
-I am a Front-End Developer with two years of experience in this field, using technologies like React, JavaScript, and CSS. I specialize in these technologies while continually improving and learning new things such as Next.js, TypeScript, Tailwind CSS, etc.
-
-In my experience, I have good communication with the team, strong individual performance, and I always contribute whenever possible. 💻✨
+I specialize in the Front-End area, with experience in designing and developing web components and
+pages using the latest technologies such as React, Next.js, Node.js, JavaScript, TypeScript, and
+CSS. Additionally, I occasionally work on projects involving WordPress. I am always seeking
+opportunities to learn and improve, both in my individual work and within teams. 💻✨
 
 ## 📌 Pinned Repositories
 
