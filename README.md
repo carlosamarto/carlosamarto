@@ -53,4 +53,4 @@ opportunities to learn and improve, both in my individual work and within teams.
 ![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Slack-informational?style=for-the-badge&logo=slack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
-![](https://img.shields.io/badge/ClickUp-informational?style=for-the-badge&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/ClickUp-informational?style=for-the-badge&logo=c&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
