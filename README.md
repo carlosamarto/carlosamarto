@@ -39,7 +39,7 @@ opportunities to learn and improve, both in my individual work and within teams.
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=vercel&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
-![](https://img.shields.io/badge/Styled-Components-informational?style=for-the-badge&logo=styled-components&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Styled--Components-informational?style=for-the-badge&logo=styled-components&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 
 ### Tools & Platforms
