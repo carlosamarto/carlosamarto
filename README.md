@@ -1,6 +1,6 @@
-[![Carlos's GitHub Banner](./Banner.png)](https://github.com/carlosamato/)
+[![Carlos's GitHub Banner](./Banner.png)](https://github.com/carlosamarto/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ff0000&color=ff0000&labelColor=0b1622)](https://www.linkedin.com/in/carlosamato/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ff0000&color=ff0000&labelColor=0b1622)](https://www.linkedin.com/in/carlosamarto/)
 
 # 📕 About
 
@@ -8,17 +8,17 @@ I currently work as a Front-End Developer, specializing primarily in the layout 
 
 ## 📌 Pinned Repositories
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosamato&repo=portfolio&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamato/portfolio) <br><br>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=carlosamarto&repo=portfolio&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamarto/portfolio) <br><br>
 
-[![Hackers News](https://github-readme-stats.vercel.app/api/pin/?username=carlosamato&repo=hackers-news&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamato/hackers-news) <br><br>
+[![Hackers News](https://github-readme-stats.vercel.app/api/pin/?username=carlosamarto&repo=hackers-news&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamarto/hackers-news) <br><br>
 
-[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosamato&repo=pokedex&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamato/pokedex)
+[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosamarto&repo=pokedex&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&border_color=ff0000&icon_color=ff0000)](https://github.com/carlosamarto/pokedex)
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamato&layout=compact&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&icon_color=ff0000&border_color=ff0000)](https://github.com/carlosamato/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosamarto&layout=compact&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&icon_color=ff0000&border_color=ff0000)](https://github.com/carlosamarto/)
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosamato&show_icons=true&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&icon_color=ff0000&border_color=ff0000)](https://github.com/carlosamato/)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosamarto&show_icons=true&bg_color=0b1622&title_color=ff0000&text_color=edf2f4&icon_color=ff0000&border_color=ff0000)](https://github.com/carlosamarto/)
 
 ## 💼 Skills
 
