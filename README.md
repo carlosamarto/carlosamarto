@@ -41,7 +41,7 @@ I currently work as a Front-End Developer, specializing primarily in the layout 
 ![](https://img.shields.io/badge/Styled--Components-informational?style=for-the-badge&logo=styled-components&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Sass?style=for-the-badge&logo=sass&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
-![](https://img.shields.io/badge/Material--UI?style=for-the-badge&logo=material-ui&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Material-UI?style=for-the-badge&logo=material-ui&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 
 ### Tools & Platforms
