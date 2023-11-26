@@ -1,10 +1,11 @@
 [![Carlos's GitHub Banner](./Banner.png)](https://github.com/carlosamarto/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=ff0000&color=ff0000&labelColor=0b1622)](https://www.linkedin.com/in/carlosamarto/)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=ff0000&color=ff0000&labelColor=0b1622)](https://www.instagram.com/carlosamartoz/)
 
 # 📕 About
 
-I currently work as a Front-End Developer, specializing primarily in the layout and creation of user interfaces for the web using technologies like React/Next.js. I also have experience conceptualizing web designs with Figma. Additionally, I've worked on the Back-End to complement the Front-End with Node.js. I am always open to learning new technologies, possess strong communication skills, and thrive both in team environments and independently. 💻
+I am a Front-End Developer, holding a degree in Computer Engineering with a specialization in the layout and creation of user interfaces for the web using technologies such as React/Next.js. I also have experience in conceptualizing web designs using Figma. Additionally, I have worked on the Back-End side to complement the Front-End using Node.js, and occasionally, I engage in projects involving WordPress. I am always open to learning new technologies, possess strong communication skills, and excel both in team collaboration and individual work. 💻
 
 ## 📌 Pinned Repositories
 
@@ -33,14 +34,18 @@ I currently work as a Front-End Developer, specializing primarily in the layout 
 
 ![](https://img.shields.io/badge/jQuery-informational?style=for-the-badge&logo=jquery&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/React_Native-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/React_Router-informational?style=for-the-badge&logo=react-router&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=vercel&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Styled--Components-informational?style=for-the-badge&logo=styled-components&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Sass?style=for-the-badge&logo=sass&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 
 ### Tools & Platforms
@@ -53,7 +58,9 @@ I currently work as a Front-End Developer, specializing primarily in the layout 
 ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Storybook-informational?style=for-the-badge&logo=storybook&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Amazon_AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Vite-informational?style=for-the-badge&logo=vite&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/ClickUp-informational?style=for-the-badge&logo=c&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
