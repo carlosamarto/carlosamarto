@@ -31,6 +31,7 @@ I am a Front-End Developer, holding a degree in Computer Engineering with a spec
 
 ### Libraries & Frameworks
 
+![](https://img.shields.io/badge/Json-informational?style=for-the-badge&logo=json&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/jQuery-informational?style=for-the-badge&logo=jquery&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Webpack-informational?style=for-the-badge&logo=webpack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Storybook-informational?style=for-the-badge&logo=storybook&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
@@ -63,3 +64,4 @@ I am a Front-End Developer, holding a degree in Computer Engineering with a spec
 ![](https://img.shields.io/badge/Notion-informational?style=for-the-badge&logo=notion&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/ClickUp-informational?style=for-the-badge&logo=c&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
 ![](https://img.shields.io/badge/Slack-informational?style=for-the-badge&logo=slack&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
+![](https://img.shields.io/badge/Jira-informational?style=for-the-badge&logo=jira&logoColor=edf2f4&color=0b1622&labelColor=ff0000)
